@@ -38,8 +38,7 @@ class MainActivity : ComponentActivity() {
                     mutableStateOf(
                         (0..6).map {
                             weekDays(
-                                title = day[it],
-                                state = false
+                                title = day[it]
                             )
                         }
                     )
