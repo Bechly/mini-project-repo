@@ -1,2 +1,2 @@
 # mini-project-repo
-Repo for Mini-Project
+Repo for Mini-Project.
